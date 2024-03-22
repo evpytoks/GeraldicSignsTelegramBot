@@ -1,0 +1,12 @@
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/bin/Release/net6.0/WorkWithGeraldicSignsDataBase.deps.json
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/bin/Release/net6.0/WorkWithGeraldicSignsDataBase.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/bin/Release/net6.0/WorkWithGeraldicSignsDataBase.pdb
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.csproj.AssemblyReference.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.AssemblyInfoInputs.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.AssemblyInfo.cs
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.csproj.CoreCompileInputs.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/refint/WorkWithGeraldicSignsDataBase.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/WorkWithGeraldicSignsDataBase.pdb
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/Release/net6.0/ref/WorkWithGeraldicSignsDataBase.dll

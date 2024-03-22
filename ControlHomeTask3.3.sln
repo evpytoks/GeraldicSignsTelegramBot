@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramGeraldicAnalyserBot", "TelegramGeraldicAnalyserBot\TelegramGeraldicAnalyserBot.csproj", "{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithGeraldicSignsDataBase", "WorkWithGeraldicSignsDataBase\WorkWithGeraldicSignsDataBase.csproj", "{CBEAFCAE-F3BE-4E1B-A5EE-0CDA27DF2533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingIntoFile", "LoggingIntoFile\LoggingIntoFile.csproj", "{30E1A67C-F91C-4A9A-A46B-AEDC914A6EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEAFCAE-F3BE-4E1B-A5EE-0CDA27DF2533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEAFCAE-F3BE-4E1B-A5EE-0CDA27DF2533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEAFCAE-F3BE-4E1B-A5EE-0CDA27DF2533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEAFCAE-F3BE-4E1B-A5EE-0CDA27DF2533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E1A67C-F91C-4A9A-A46B-AEDC914A6EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E1A67C-F91C-4A9A-A46B-AEDC914A6EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E1A67C-F91C-4A9A-A46B-AEDC914A6EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E1A67C-F91C-4A9A-A46B-AEDC914A6EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B4E322-D11E-4C93-9FB5-73A0692DC63D}
+	EndGlobalSection
+EndGlobal

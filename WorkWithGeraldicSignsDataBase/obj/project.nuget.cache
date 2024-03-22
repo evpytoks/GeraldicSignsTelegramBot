@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCMFpDALxgQnQuk9PIk71wANzgsbSp03WCCCS/EtcT0P7je23BjzQvsCL7gkv6wVUvjSZsFDoaP3zFyAqKhD3w==",
+  "success": true,
+  "projectFilePath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj",
+  "expectedPackageFiles": [
+    "/Users/evpytoks/.nuget/packages/csvhelper/31.0.2/csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

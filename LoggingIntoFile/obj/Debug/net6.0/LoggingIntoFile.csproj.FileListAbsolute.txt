@@ -1,0 +1,12 @@
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/bin/Debug/net6.0/LoggingIntoFile.deps.json
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/bin/Debug/net6.0/LoggingIntoFile.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/bin/Debug/net6.0/LoggingIntoFile.pdb
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.csproj.AssemblyReference.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.AssemblyInfoInputs.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.AssemblyInfo.cs
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.csproj.CoreCompileInputs.cache
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/refint/LoggingIntoFile.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/LoggingIntoFile.pdb
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/Debug/net6.0/ref/LoggingIntoFile.dll

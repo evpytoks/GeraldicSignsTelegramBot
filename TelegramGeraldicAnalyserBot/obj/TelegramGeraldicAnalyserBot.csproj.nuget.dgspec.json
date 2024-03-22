@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/TelegramGeraldicAnalyserBot/TelegramGeraldicAnalyserBot.csproj": {}
+  },
+  "projects": {
+    "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/LoggingIntoFile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/LoggingIntoFile.csproj",
+        "projectName": "LoggingIntoFile",
+        "projectPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/LoggingIntoFile.csproj",
+        "packagesPath": "/Users/evpytoks/.nuget/packages/",
+        "outputPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evpytoks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/TelegramGeraldicAnalyserBot/TelegramGeraldicAnalyserBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/TelegramGeraldicAnalyserBot/TelegramGeraldicAnalyserBot.csproj",
+        "projectName": "TelegramGeraldicAnalyserBot",
+        "projectPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/TelegramGeraldicAnalyserBot/TelegramGeraldicAnalyserBot.csproj",
+        "packagesPath": "/Users/evpytoks/.nuget/packages/",
+        "outputPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/TelegramGeraldicAnalyserBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evpytoks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/LoggingIntoFile.csproj": {
+                "projectPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/LoggingIntoFile/LoggingIntoFile.csproj"
+              },
+              "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj": {
+                "projectPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj",
+        "projectName": "WorkWithGeraldicSignsDataBase",
+        "projectPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/WorkWithGeraldicSignsDataBase.csproj",
+        "packagesPath": "/Users/evpytoks/.nuget/packages/",
+        "outputPath": "/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/WorkWithGeraldicSignsDataBase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/evpytoks/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[31.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

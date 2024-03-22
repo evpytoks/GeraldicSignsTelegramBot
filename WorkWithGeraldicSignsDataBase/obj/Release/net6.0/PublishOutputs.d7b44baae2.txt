@@ -1,0 +1,4 @@
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/publish/WorkWithGeraldicSignsDataBase.dll
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/publish/WorkWithGeraldicSignsDataBase.deps.json
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/publish/WorkWithGeraldicSignsDataBase.pdb
+/Users/evpytoks/Programming/C_Sharp/HSE/ControlHomeTask3.3/publish/CsvHelper.dll

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CA18EC30-EB28-496E-986E-FA7ABA4BEF5E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkWithGeraldicSignsDataBase/JSONProcessing.cs">
+    <Files>
+      <File FileName="TelegramGeraldicAnalyserBot/Program.cs" />
+      <File FileName="WorkWithGeraldicSignsDataBase/GeraldicSigns.cs" Line="1" Column="1" />
+      <File FileName="WorkWithGeraldicSignsDataBase/JSONProcessing.cs" Line="73" Column="23" />
+      <File FileName="WorkWithGeraldicSignsDataBase/GeraldicSign.cs" Line="1" Column="1" />
+      <File FileName="WorkWithGeraldicSignsDataBase/CSVProcessing.cs" Line="36" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ControlHomeTask3.3" expanded="True">
+            <Node name="TelegramGeraldicAnalyserBot" expanded="True" />
+            <Node name="WorkWithGeraldicSignsDataBase" expanded="True">
+              <Node name="JSONProcessing.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.LoggingIntoFile FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TelegramGeraldicAnalyserBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
