@@ -30,7 +30,7 @@ class Program
 
 
         // Создание бота.
-        Bot bot = new Bot(new TelegramBotClient("6745804700:AAGgLPQmWQT6uzw8tdf86fyXBhs3D-H93hE"),
+        Bot bot = new Bot(new TelegramBotClient("<Your token here>"),
             new ReceiverOptions
             {
                 AllowedUpdates = new[]
